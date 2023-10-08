@@ -4,4 +4,4 @@ This code is designed for quad 7-segment LED display modules utilizing the TM163
 
 For the original code and detailed documentation, please visit this [https://github.com/mcauser/micropython-tm1637](https://github.com/mcauser/micropython-tm1637).
 
-![DISPLAY](docs/4-Digit_Display.jpg)
+![DISPLAY](4-Digit_Display.jpg)
